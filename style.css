@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+button {
+    background-color: darkslategray;
+    border: 2px solid white;
+    color: white;
+    font-size: 18px;
+}
+
+#display {
+    font-size: 20px;
+}
